@@ -1,5 +1,5 @@
 import 'package:auto_size_text/auto_size_text.dart';
-import 'package:demoapp/items_screen.dart';
+import 'package:demoapp/screens/items_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
